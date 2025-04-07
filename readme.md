@@ -1,94 +1,252 @@
-<!-- Rainbow Border Animation -->
+# 👋 Hi, I'm Turanya Mishra
+
 <div align="center">
-  <img src="https://github.com/turanyamishra/turanyamishra/blob/main/assets/header.png" alt="header"/>
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=700&lines=Innovative+Code+Gardener+🌱;ML+Enchantress+✨;Hackathon+Honeybee+🏆;Pixel+Perfect+Developer+💻)
+
+  <img src="https://komarev.com/ghpvc/?username=turanyamishra&label=Profile%20Views&color=FF1493&style=for-the-badge" alt="Profile Views" />
+  
 </div>
 
-<!-- Animated Intro Section -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=800&lines=Hello+World!+👋;I'm+Turanya+Mishra+💻;GDG+CVGRU+Top+9+Finalist+🏅;IIIT+Bhubaneswar+Top+50+🚀;Product+Developer+🛠️;ML+Enthusiast+🤖">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+
+## ✨ About Me
+
+<div align="center">
+  <img align="right" height="270px" alt="Programmer GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+</div>
+
+- 🔭 I'm currently working on **AI-Powered Talent Matching Platforms**
+- 🌱 Learning **Advanced Neural Network Architectures** and **Cloud-Native Development**
+- 👯 Looking to collaborate on **Machine Learning** & **Creative Tech Projects**
+- 💬 Ask me about **AI, Flutter, Python, Creative Coding**
+- 🌟 Fun fact: I collect digital art NFTs and contribute to open source on weekends!
+
+<br clear="right"/>
+
+## 🛠️ My Magical Toolkit
+
+<div align="center">
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turanyamishra&theme=radical&layout=compact&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
+
+</div>
+
+## 🌷 Blossoming Projects
+
+<div align="center">
+  <a href="#talentbridge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=turanyamishra&repo=TalentBridge&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
-</h1>
+  <a href="#ai-art-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=turanyamishra&repo=AI-Art-Generator&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
 
-<!-- Achievement Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=turanyamishra&label=Profile+Views&color=00CED1&style=plastic" alt="turanyamishra" />
-  <img src="https://img.shields.io/badge/GDG-CVGRU_Top_9-blue?style=plastic&logo=google&logoColor=white" alt="gdg-cvgru">
-  <img src="https://img.shields.io/badge/IIIT-Bhubaneswar_Top_50-red?style=plastic&logo=graduation-cap&logoColor=white" alt="iiit-bbsr">
-</p>
+### 🌸 TalentBridge
+AI-Powered platform that matches talent with opportunities using advanced algorithms.
+- **Tech Stack**: Dart | Flutter | Firebase | TensorFlow
+- **Key Features**: AI Matching, Personalized Recommendations, Real-time Chat
+- [View Demo](#) | [Repository](#)
 
-<!-- Tech Stack with Icons -->
-<h2 align="center">🛠️ Tech Stack</h2>
+### 🦋 AI-Art Generator
+Create stunning artwork with neural style transfer and GANs.
+- **Tech Stack**: Python | TensorFlow | PyTorch | Flask
+- **Key Features**: Multiple Style Models, Custom Training, Web Interface
+- [View Demo](#) | [Repository](#)
+
+## 📊 Growth Garden
+
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,dart,js,ts,html,css&theme=dark&perline=8" alt="languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turanyamishra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=turanyamishra&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
   
-  <h3>ML/AI Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv,pandas,numpy,scikit&theme=dark&perline=7" alt="ml-libs"/>
+  ![Turanya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=turanyamishra&custom_title=Turanya's%20Contribution%20Graph&theme=radical&bg_color=0D1117&hide_border=true&line=FF69B4&point=FFFFFF)
   
-  <h3>Frameworks & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,mongodb,aws,gcp,docker,git,github,figma,vscode&theme=dark&perline=8" alt="tools"/>
 </div>
 
-<!-- Project Showcase -->
-<h2 align="center">🚀 Product Development</h2>
+## 🏆 Prize Petals
+
 <div align="center">
-
-[![TALENT_BRIDGE](https://github-readme-tech-stack.vercel.app/api/cards?title=TALENT_BRIDGE&borderRadius=15&titleBorderRadius=15&fontFamily=roboto&gap=4&lineCount=2&badges=Dart&badges=Flutter&badges=Firebase&badges=ML&theme=radical)](https://)
-  <p align="center">AI-powered talent matching platform • Dart/Flutter • ML Integration</p>
-
-[![AI-ART-GENERATOR](https://github-readme-tech-stack.vercel.app/api/cards?title=AI-ART-GENERATOR&borderRadius=15&titleBorderRadius=15&fontFamily=roboto&gap=4&lineCount=2&badges=JavaScript&badges=TF.js&badges=GAN&badges=Node.js&theme=radical)](https://)
-  <p align="center">Generative AI art creation tool • TensorFlow.js • GAN Implementation</p>
-
-[![HIM](https://github-readme-tech-stack.vercel.app/api/cards?title=HIM&borderRadius=15&titleBorderRadius=15&fontFamily=roboto&gap=4&lineCount=2&badges=HTML5&badges=CSS3&badges=JS&badges=AI&theme=radical)](https://)
-  <p align="center">Healthcare intelligence monitoring • AI Analytics Dashboard</p>
-
-[![Book Recommendation](https://github-readme-tech-stack.vercel.app/api/cards?title=Book+Recommendation+App&borderRadius=15&titleBorderRadius=15&fontFamily=roboto&gap=4&lineCount=2&badges=JavaScript&badges=ML&badges=Recommendation&badges=API&theme=radical)](https://)
-  <p align="center">Personalized book suggestion engine • Collaborative Filtering • REST API</p>
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=turanyamishra&theme=radical&row=1&column=6&margin-w=15&margin-h=15)
+  
 </div>
 
-<!-- Hackathon Section -->
-<div align="center">
-  <h2>🏆 Hackathon Achievements</h2>
-  <img src="https://github.com/turanyamishra/turanyamishra/blob/main/assets/trophy.gif" width="200" alt="trophy">
-  <ul align="left" style="display: inline-block; text-align: left;">
-    <li>🥇 <b>Top 9 Finalist</b> - GDG CVGRU Hackathon 2023</li>
-    <li>🏅 <b>Top 50 Finalist</b> - IIIT Bhubaneswar Hackathon 2023</li>
-    <li>🚀 Developed 4 production-grade prototypes during hackathons</li>
-    <li>💡 Implemented innovative solutions using AI/ML stack</li>
-  </ul>
-</div>
+- 🌟 **GDG CVGRU Hackathon** - Top 9 Finalist (2023)
+- 🥇 **IIIT Bhubaneswar CodeFest** - Top 50 (2022)
+- 🏅 **Hackathon Honeybee Award** - Best UI/UX Implementation (2023)
+- 🌈 **MLH Hack Together** - Most Innovative Project (2022)
+- 🚀 **Microsoft Imagine Cup** - Regional Semifinalist (2023)
 
-<!-- Stats Section -->
-<table align="center">
+## 🛠️ Open Source Contributions
+
+```mermaid
+gitGraph:
+  commit id: "First Contribution"
+  branch feature/ai-models
+  checkout feature/ai-models
+  commit id: "Add Custom CNN"
+  commit id: "Fix Accuracy Issues"
+  checkout main
+  merge feature/ai-models
+  branch bugfix/memory-leak
+  checkout bugfix/memory-leak
+  commit id: "Identify Root Cause"
+  commit id: "Implement Solution"
+  checkout main
+  merge bugfix/memory-leak
+  commit id: "Release v1.0"
+```
+
+## 💫 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python       ██████████████▓░░░░░░  58.25%
+Dart         ██████▒░░░░░░░░░░░░░░  24.38%
+JavaScript   ███▒░░░░░░░░░░░░░░░░░  12.70%
+HTML/CSS     ▒░░░░░░░░░░░░░░░░░░░░   3.15%
+Other        ▒░░░░░░░░░░░░░░░░░░░░   1.52%
+```
+<!--END_SECTION:waka-->
+
+## 🎨 Creative Showcase
+
+<table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=turanyamishra&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" alt="stats"/>
+      <h3 align="center">AI Art Portfolio</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://via.placeholder.com/400x200/FF1493/FFFFFF?text=AI+Art+Portfolio" width="400" alt="AI Art Portfolio">
+        </a>
+      </p>
+      <p align="center">A collection of AI-generated artwork created using my custom style transfer algorithms</p>
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=turanyamishra&theme=radical&background=0d1117&hide_border=true" alt="streak"/>
+      <h3 align="center">ML Visualization Tool</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://via.placeholder.com/400x200/9370DB/FFFFFF?text=ML+Visualization+Tool" width="400" alt="ML Visualization Tool">
+        </a>
+      </p>
+      <p align="center">Interactive platform to visualize complex machine learning models and data flows</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Flutter UI Components</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://via.placeholder.com/400x200/00BFFF/FFFFFF?text=Flutter+UI+Components" width="400" alt="Flutter UI Components">
+        </a>
+      </p>
+      <p align="center">Custom-designed Flutter UI components with animations and responsiveness</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">IoT Weather Station</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://via.placeholder.com/400x200/32CD32/FFFFFF?text=IoT+Weather+Station" width="400" alt="IoT Weather Station">
+        </a>
+      </p>
+      <p align="center">Smart weather monitoring system built with Raspberry Pi and custom sensors</p>
     </td>
   </tr>
 </table>
 
-<!-- Contact Section -->
-<h2 align="center">📫 Let's Connect!</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/turanyamishra">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+## 🌱 Current Learning Journey
+
+<div align="center">
+  
+  <img src="https://via.placeholder.com/800x100/FF1493/FFFFFF?text=My+Learning+Path" width="800" alt="Learning Path">
+  
+</div>
+
+- **Advanced GANs** ▓▓▓▓▓▓▓▓▓░░░░░ 65%
+- **Cloud Architecture** ▓▓▓▓▓▓▓░░░░░░░ 58%
+- **Quantum Computing** ▓▓▓▓░░░░░░░░░░ 40%
+- **Blockchain Development** ▓▓▓▓▓▓░░░░░░░░ 50%
+- **AR/VR Integration** ▓▓▓▓▓▓▓▓░░░░░ 70%
+
+## 🌺 Let's Pollinate Ideas!
+
+<div align="center">
+  
+  <a href="mailto:turanya@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:turanyamishra@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://turanyamishra.dev">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=circle&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/turanyamishra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/turanyamishra">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</p>
+  <a href="https://dev.to/turanyamishra">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@turanyamishra">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  
+</div>
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/turanyamishra/turanyamishra/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+## 🌈 GitHub Skyline
+
+<div align="center">
+  <a href="https://skyline.github.com/turanyamishra/2023">
+    <img src="https://via.placeholder.com/800x400/FF1493/FFFFFF?text=GitHub+Skyline+3D+Contribution+Chart" width="800" alt="GitHub Skyline">
+  </a>
+  <p>View my 3D contribution chart! ☝️ Click the image</p>
+</div>
+
+<div align="center">
+  
+  <!-- Ladybug Divider -->
+  🐞••••••••🐞••••••••🐞••••••••🐞••••••••🐞
+  
+  <h3>🌟 Thanks for visiting! Let's create something amazing together! 🌟</h3>
+  
+  ![Wave](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
+<details>
+  <summary>🌼 Click for a secret garden...</summary>
+  <div align="center">
+    <p>You've discovered my secret coding garden! Here's a special ASCII art just for you:</p>
+    <pre>
+           ,,.
+         ,;*;;;,
+        ,;*;;;;,
+       ,;;*;;;;;,
+      ,;;;*;;;;;;,
+     ,;;;;*;;;;;;;,
+    ,;;;;;*;;;;;;;;,
+   ,;;;;;;*;;;;;;;;;,
+  ,;;;;;;;*;;;;;;;;;;,
+ ,;;;;;;;;*;;;;;;;;;;;,
+ ^^^^^^^^^^^^^^^^^^^^^
+    </pre>
+    <p>Plant seeds of code, watch them grow!</p>
+  </div>
+</details>
+
+<!-- Custom Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Code%20With%20Love&fontSize=30&fontAlignY=80&animation=fadeIn&fontColor=FFFFFF" width="100%"/>

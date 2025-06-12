@@ -30,20 +30,21 @@
 ## 🔥 SYSTEM SPECIFICATIONS
 
 <h3>🚀 Current Mission</h3> <code>Building AI-Powered Talent Matching Platforms</code>
-        
+        ```
         <h3>🧠 Learning Buffer</h3>
-        <code>Advanced Neural Network Architectures & Cloud-Native Development</code>
-        
+        <code>Advanced Neural Network Architectures & Cloud-Native Development</code> 
+        ```
         <h3>🤝 Collaboration Protocol</h3>
-        <code>Machine Learning & Creative Tech Projects</code>
-        
+        <code>Machine Learning & Creative Tech Projects</code> 
+        ```
         <h3>💬 Expert Domains</h3>
         <code>AI | Flutter | Python | Creative Coding | System Architecture</code>
-        
+        ```
         <h3>⚡ Fun Fact</h3>
         <code>I debug code faster than I debug my life 😄</code>
+        ```
       </td>
-    </tr>
+    </tr> 
   </table>
 </div>
 

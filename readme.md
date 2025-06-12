@@ -341,7 +341,7 @@ Let's build something amazing together! 🔥
     ║  01000001 01010111 01000001 01001011 01000101     ║
     ║  01001110 01000101 01000100 00100001 00100001     ║
     ║                                                   ║
-    ║           🌟 THE MATRIX HAS AWAKENED! 🌟          ║
+    ║           🌟 THE MATRIX HAS AWAKENED! 🌟         ║
     ║                                                   ║
     ║    "There is no spoon... only clean code!" 🥄     ║
     ╚═══════════════════════════════════════════════════╝

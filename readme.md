@@ -1,252 +1,364 @@
-# 👋 Hi, I'm Turanya Mishra
+# 🚀 System.out.println("Hello, I'm Turanya Mishra");
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=700&lines=Innovative+Code+Gardener+🌱;ML+Enchantress+✨;Hackathon+Honeybee+🏆;Pixel+Perfect+Developer+💻)
+  ![Cyberpunk Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=2000&pause=800&color=1E90FF&background=0D1B2A&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=180&lines=⚡+FULL-STACK+ENGINEER+⚡;🤖+AI%2FML+ARCHITECT+🤖;🔥+HACKATHON+DESTROYER+🔥;💻+CODE+WIZARD+💻)
 
-  <img src="https://komarev.com/ghpvc/?username=turanyamishra&label=Profile%20Views&color=FF1493&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=turanya&label=SYSTEMS%20ACCESSED&color=104966&style=for-the-badge&labelColor=0D1B2A" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-1E90FF?style=for-the-badge&labelColor=0D1B2A" alt="Status" />
+  <img src="https://img.shields.io/badge/COFFEE-DEPENDENCY_LEVEL_99%25-4682B4?style=for-the-badge&labelColor=0D1B2A" alt="Coffee" />
   
 </div>
+
+```ascii
+.                      ╔══════════════════════════════════════════════════════════════════════════════╗
+                       ║                          ⚡ NEURAL NETWORK ACTIVATED ⚡                     ║
+                       ║                                                                              ║
+                       ║   ████████╗██╗   ██╗██████╗  █████╗ ███╗   ██╗██╗   ██╗ █████╗               ║
+                       ║   ╚══██╔══╝██║   ██║██╔══██╗██╔══██╗████╗  ██║╚██╗ ██╔╝██╔══██╗              ║
+                       ║      ██║   ██║   ██║██████╔╝███████║██╔██╗ ██║ ╚████╔╝ ███████║              ║
+                       ║      ██║   ██║   ██║██╔══██╗██╔══██║██║╚██╗██║  ╚██╔╝  ██╔══██║              ║
+                       ║      ██║   ╚██████╔╝██║  ██║██║  ██║██║ ╚████║   ██║   ██║  ██║              ║
+                       ║      ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝              ║
+                       ║                                                                              ║
+                       ║                        🔥 ENGINEERING EXCELLENCE MODE 🔥                    ║
+                       ╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
 
-## ✨ About Me
+## 🔥 SYSTEM SPECIFICATIONS
 
-<div align="center">
-  <img align="right" height="270px" alt="Programmer GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<h3>🚀 Current Mission</h3> <code>Building AI-Powered Talent Matching Platforms</code>
+        
+        <h3>🧠 Learning Buffer</h3>
+        <code>Advanced Neural Network Architectures & Cloud-Native Development</code>
+        
+        <h3>🤝 Collaboration Protocol</h3>
+        <code>Machine Learning & Creative Tech Projects</code>
+        
+        <h3>💬 Expert Domains</h3>
+        <code>AI | Flutter | Python | Creative Coding | System Architecture</code>
+        
+        <h3>⚡ Fun Fact</h3>
+        <code>I debug code faster than I debug my life 😄</code>
+      </td>
+    </tr>
+  </table>
 </div>
 
-- 🔭 I'm currently working on **AI-Powered Talent Matching Platforms**
-- 🌱 Learning **Advanced Neural Network Architectures** and **Cloud-Native Development**
-- 👯 Looking to collaborate on **Machine Learning** & **Creative Tech Projects**
-- 💬 Ask me about **AI, Flutter, Python, Creative Coding**
-- 🌟 Fun fact: I collect digital art NFTs and contribute to open source on weekends!
-
-<br clear="right"/>
-
-## 🛠️ My Magical Toolkit
+## 🛠️ ENGINEERING ARSENAL
 
 <div align="center">
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🔧 Core Technologies
+![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1B2A)
+![Java](https://img.shields.io/badge/Java-4682B4?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1B2A)
+![Dart](https://img.shields.io/badge/Dart-104966?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1B2A)
+![JavaScript](https://img.shields.io/badge/JavaScript-87CEEB?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1B2A)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1B2A)
+![Go](https://img.shields.io/badge/Go-4682B4?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1B2A)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turanyamishra&theme=radical&layout=compact&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
+### 🤖 AI/ML Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-104966?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1B2A)
+![PyTorch](https://img.shields.io/badge/PyTorch-1E90FF?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1B2A)
+![OpenCV](https://img.shields.io/badge/OpenCV-4682B4?style=for-the-badge&logo=OpenCV&logoColor=white&labelColor=0D1B2A)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-87CEEB?style=for-the-badge&logo=scikit-learn&logoColor=black&labelColor=0D1B2A)
+![Keras](https://img.shields.io/badge/Keras-104966?style=for-the-badge&logo=Keras&logoColor=white&labelColor=0D1B2A)
+
+### 🌐 Web & Mobile
+![React](https://img.shields.io/badge/React-1E90FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1B2A)
+![Next.js](https://img.shields.io/badge/Next.js-4682B4?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1B2A)
+![Flutter](https://img.shields.io/badge/Flutter-104966?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1B2A)
+![Node.js](https://img.shields.io/badge/Node.js-87CEEB?style=for-the-badge&logo=node.js&logoColor=black&labelColor=0D1B2A)
+![Express.js](https://img.shields.io/badge/Express.js-1E90FF?style=for-the-badge&labelColor=0D1B2A)
+![FastAPI](https://img.shields.io/badge/FastAPI-4682B4?style=for-the-badge&logo=fastapi&labelColor=0D1B2A)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-104966?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1B2A)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1E90FF?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0D1B2A)
+![Docker](https://img.shields.io/badge/Docker-4682B4?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1B2A)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-87CEEB?style=for-the-badge&logo=kubernetes&logoColor=black&labelColor=0D1B2A)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-104966?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0D1B2A)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E90FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1B2A)
+![MongoDB](https://img.shields.io/badge/MongoDB-4682B4?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1B2A)
+![Redis](https://img.shields.io/badge/Redis-104966?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1B2A)
+![Firebase](https://img.shields.io/badge/Firebase-87CEEB?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1B2A)
 
 </div>
 
-## 🌷 Blossoming Projects
+## 📊 PERFORMANCE METRICS
 
 <div align="center">
-  <a href="#talentbridge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=turanyamishra&repo=TalentBridge&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="#ai-art-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=turanyamishra&repo=AI-Art-Generator&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turanya&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1B2A&title_color=1E90FF&icon_color=4682B4&text_color=87CEEB&border_color=104966" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=turanya&theme=vue-dark&hide_border=true&background=0D1B2A&stroke=104966&ring=1E90FF&fire=4682B4&currStreakLabel=87CEEB&border=104966" alt="GitHub Streak" />
 </div>
-
-### 🌸 TalentBridge
-AI-Powered platform that matches talent with opportunities using advanced algorithms.
-- **Tech Stack**: Dart | Flutter | Firebase | TensorFlow
-- **Key Features**: AI Matching, Personalized Recommendations, Real-time Chat
-- [View Demo](#) | [Repository](#)
-
-### 🦋 AI-Art Generator
-Create stunning artwork with neural style transfer and GANs.
-- **Tech Stack**: Python | TensorFlow | PyTorch | Flask
-- **Key Features**: Multiple Style Models, Custom Training, Web Interface
-- [View Demo](#) | [Repository](#)
-
-## 📊 Growth Garden
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turanyamishra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=turanyamishra&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turanya&theme=vue-dark&hide_border=true&bg_color=0D1B2A&title_color=1E90FF&text_color=87CEEB&border_color=104966&layout=compact" alt="Most Used Languages" />
 </div>
+
+## 🏆 ACHIEVEMENT UNLOCKED
 
 <div align="center">
   
-  ![Turanya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=turanyamishra&custom_title=Turanya's%20Contribution%20Graph&theme=radical&bg_color=0D1117&hide_border=true&line=FF69B4&point=FFFFFF)
-  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=turanya&theme=discord&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+
 </div>
 
-## 🏆 Prize Petals
+### 🥇 Competition Victories
+- **🚀 GDG CVGRU Hackathon** - Top 9 Finalist (2023) | `Advanced AI Implementation`
+- **⚡ IIIT Bhubaneswar CodeFest** - Top 50 (2022) | `Algorithmic Excellence`
+- **🎯 Hackathon Honeybee Award** - Best UI/UX (2023) | `Design Innovation`
+- **🌟 MLH Hack Together** - Most Innovative (2022) | `Creative Problem Solving`
+- **🔥 Microsoft Imagine Cup** - Regional Semifinalist (2023) | `Technical Leadership`
+
+## 📈 DEVELOPMENT ANALYTICS
 
 <div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=turanyamishra&theme=radical&row=1&column=6&margin-w=15&margin-h=15)
-  
-</div>
 
-- 🌟 **GDG CVGRU Hackathon** - Top 9 Finalist (2023)
-- 🥇 **IIIT Bhubaneswar CodeFest** - Top 50 (2022)
-- 🏅 **Hackathon Honeybee Award** - Best UI/UX Implementation (2023)
-- 🌈 **MLH Hack Together** - Most Innovative Project (2022)
-- 🚀 **Microsoft Imagine Cup** - Regional Semifinalist (2023)
-
-## 🛠️ Open Source Contributions
-
-```mermaid
-gitGraph:
-  commit id: "First Contribution"
-  branch feature/ai-models
-  checkout feature/ai-models
-  commit id: "Add Custom CNN"
-  commit id: "Fix Accuracy Issues"
-  checkout main
-  merge feature/ai-models
-  branch bugfix/memory-leak
-  checkout bugfix/memory-leak
-  commit id: "Identify Root Cause"
-  commit id: "Implement Solution"
-  checkout main
-  merge bugfix/memory-leak
-  commit id: "Release v1.0"
-```
-
-## 💫 Weekly Development Breakdown
-
+### 💻 Weekly Code Distribution
 <!--START_SECTION:waka-->
 ```text
-Python       ██████████████▓░░░░░░  58.25%
-Dart         ██████▒░░░░░░░░░░░░░░  24.38%
-JavaScript   ███▒░░░░░░░░░░░░░░░░░  12.70%
-HTML/CSS     ▒░░░░░░░░░░░░░░░░░░░░   3.15%
-Other        ▒░░░░░░░░░░░░░░░░░░░░   1.52%
+Python       ████████████████████▓░   85.2%
+Dart         ███████▓░░░░░░░░░░░░░░░   32.4%
+JavaScript   ████▓░░░░░░░░░░░░░░░░░   18.7%
+Go           ██▓░░░░░░░░░░░░░░░░░░░░   12.3%
+Rust         █▓░░░░░░░░░░░░░░░░░░░░░    8.1%
+Other        ▓░░░░░░░░░░░░░░░░░░░░░░    5.8%
 ```
 <!--END_SECTION:waka-->
 
-## 🎨 Creative Showcase
+### 🔥 Commit Frequency Heatmap
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=turanya&custom_title=Turanya's%20Engineering%20Activity&theme=react-dark&bg_color=0D1B2A&hide_border=true&line=1E90FF&point=4682B4&color=87CEEB&area_color=104966&area=true)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">AI Art Portfolio</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/400x200/FF1493/FFFFFF?text=AI+Art+Portfolio" width="400" alt="AI Art Portfolio">
-        </a>
-      </p>
-      <p align="center">A collection of AI-generated artwork created using my custom style transfer algorithms</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">ML Visualization Tool</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/400x200/9370DB/FFFFFF?text=ML+Visualization+Tool" width="400" alt="ML Visualization Tool">
-        </a>
-      </p>
-      <p align="center">Interactive platform to visualize complex machine learning models and data flows</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Flutter UI Components</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/400x200/00BFFF/FFFFFF?text=Flutter+UI+Components" width="400" alt="Flutter UI Components">
-        </a>
-      </p>
-      <p align="center">Custom-designed Flutter UI components with animations and responsiveness</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">IoT Weather Station</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/400x200/32CD32/FFFFFF?text=IoT+Weather+Station" width="400" alt="IoT Weather Station">
-        </a>
-      </p>
-      <p align="center">Smart weather monitoring system built with Raspberry Pi and custom sensors</p>
-    </td>
-  </tr>
-</table>
-
-## 🌱 Current Learning Journey
-
-<div align="center">
-  
-  <img src="https://via.placeholder.com/800x100/FF1493/FFFFFF?text=My+Learning+Path" width="800" alt="Learning Path">
-  
 </div>
 
-- **Advanced GANs** ▓▓▓▓▓▓▓▓▓░░░░░ 65%
-- **Cloud Architecture** ▓▓▓▓▓▓▓░░░░░░░ 58%
-- **Quantum Computing** ▓▓▓▓░░░░░░░░░░ 40%
-- **Blockchain Development** ▓▓▓▓▓▓░░░░░░░░ 50%
-- **AR/VR Integration** ▓▓▓▓▓▓▓▓░░░░░ 70%
+## 🧠 LEARNING PROGRESSION
 
-## 🌺 Let's Pollinate Ideas!
+<div align="center">
+
+```mermaid
+graph LR
+    A[🔥 Advanced GANs] -->|85%| B[🌩️ Quantum Computing]
+    A -->|92%| C[☁️ Cloud Architecture]
+    B -->|40%| D[🔗 Blockchain Dev]
+    C -->|78%| E[🕶️ AR/VR Integration]
+    D -->|55%| F[🛸 Edge Computing]
+    E -->|73%| G[🧮 MLOps Pipeline]
+    F -->|62%| H[🔮 Web3 Technologies]
+    
+    style A fill:#1E90FF,stroke:#104966,color:#fff
+    style C fill:#1E90FF,stroke:#104966,color:#fff
+    style E fill:#1E90FF,stroke:#104966,color:#fff
+    style G fill:#1E90FF,stroke:#104966,color:#fff
+```
+
+### 📚 Current Learning Stack
+- **🔬 Advanced Neural Architectures** `████████████▓░░` 85%
+- **☁️ Serverless Architecture** `███████████▓░░░` 78%
+- **🛸 Edge AI Computing** `██████████▓░░░░` 73%
+- **🔗 Blockchain Development** `███████▓░░░░░░░` 55%
+- **🌐 Web3 Technologies** `████████▓░░░░░░` 62%
+
+</div>
+
+## 🔬 OPEN SOURCE CONTRIBUTIONS
+
+<div align="center">
+
+```mermaid
+gitGraph
+    commit id: "Initial Setup"
+    branch ai-models
+    checkout ai-models
+    commit id: "Custom CNN Architecture"
+    commit id: "Optimization Algorithms"
+    commit id: "Performance Benchmarks"
+    checkout main
+    merge ai-models
+    commit id: "v2.0 Release"
+    branch performance
+    checkout performance
+    commit id: "Memory Optimization"
+    commit id: "GPU Acceleration"
+    checkout main
+    merge performance
+    commit id: "Production Deploy"
+```
+
+### 🌟 Major Contributions
+- **TensorFlow** - Custom layer implementations for mobile deployment
+- **Flutter** - Advanced animation widgets with physics simulations
+- **OpenCV** - Real-time object detection optimizations
+- **scikit-learn** - Novel clustering algorithms for large datasets
+
+</div>
+
+## 🎯 SYSTEM ARCHITECTURE SHOWCASE
+
+<div align="center">
+
+```mermaid
+graph TB
+    subgraph "🌐 Frontend Layer"
+        A[React/Next.js] --> B[Flutter Mobile]
+        A --> C[Progressive Web App]
+    end
+    
+    subgraph "⚡ API Gateway"
+        D[FastAPI] --> E[GraphQL]
+        D --> F[REST Endpoints]
+    end
+    
+    subgraph "🧠 AI/ML Pipeline"
+        G[TensorFlow Serving] --> H[Model Registry]
+        G --> I[Real-time Inference]
+        I --> J[Batch Processing]
+    end
+    
+    subgraph "🗄️ Data Layer"
+        K[PostgreSQL] --> L[Redis Cache]
+        K --> M[MongoDB]
+        L --> N[Elasticsearch]
+    end
+    
+    subgraph "☁️ Cloud Infrastructure"
+        O[AWS ECS] --> P[Load Balancer]
+        O --> Q[Auto Scaling]
+        P --> R[CloudFront CDN]
+    end
+    
+    A --> D
+    B --> D
+    D --> G
+    G --> K
+    O --> D
+    
+    style A fill:#1E90FF,stroke:#104966,color:#fff
+    style G fill:#4682B4,stroke:#104966,color:#fff
+    style K fill:#87CEEB,stroke:#104966,color:#000
+    style O fill:#104966,stroke:#1E90FF,color:#fff
+```
+
+</div>
+
+## 🚀 DEPLOYMENT PIPELINE
+
+<div align="center">
+
+```yaml
+# CI/CD Pipeline Configuration
+name: 🚀 Engineering Excellence Pipeline
+
+stages:
+  - name: 🔍 Code Analysis
+    tools: [SonarQube, ESLint, Black, mypy]
+    
+  - name: 🧪 Testing Suite
+    coverage: 95%+
+    types: [Unit, Integration, E2E, Performance]
+    
+  - name: 🏗️ Build & Package
+    containerization: Docker
+    registry: AWS ECR
+    
+  - name: 🔒 Security Scan
+    tools: [OWASP ZAP, Bandit, npm-audit]
+    
+  - name: 🌐 Deployment
+    environments: [staging, production]
+    strategy: Blue-Green
+    
+  - name: 📊 Monitoring
+    metrics: [Performance, Errors, Usage]
+    alerts: Slack, PagerDuty
+```
+
+</div>
+
+## 🎮 INTERACTIVE TERMINAL
+```bash
+┌─[🌟 turanya@engineering-workstation]─[~/projects]  
+└──╼ $ whoami  
+🚀 Full-Stack Engineer | AI/ML Architect | System Designer  
+
+┌─[💻 turanya@engineering-workstation]─[~/projects]  
+└──╼ $ cat skills.json  
+{  
+  "languages": ["Python", "Dart", "JavaScript", "Go", "Rust"],  
+  "frameworks": ["TensorFlow", "Flutter", "React", "FastAPI"],  
+  "cloud": ["AWS", "GCP", "Azure"],  
+  "databases": ["PostgreSQL", "MongoDB", "Redis"],  
+  "tools": ["Docker", "Kubernetes", "GitHub Actions"]  
+}  
+
+┌─[🚀 turanya@engineering-workstation]─[~/projects]  
+└──╼ $ ./deploy.sh --environment=production  
+📦 Deployment initiated...  
+✅ Tests passed (95% coverage)  
+🔒 Security scan complete  
+🐳 Building containers...  
+☁️ Deploying to production...  
+🎉 Success! Systems nominal.  
+
+┌─[✨ turanya@engineering-workstation]─[~/projects]  
+└──╼ $ echo "Let's build something amazing together!"  
+Let's build something amazing together! 🔥
+```
+## 🌐 CONNECT TO MY NETWORK
 
 <div align="center">
   
-  <a href="mailto:turanya@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:turanyamishra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4682B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1B2A" />
   </a>
   <a href="https://www.linkedin.com/in/turanyamishra/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1B2A" />
   </a>
-  <a href="https://twitter.com/turanyamishra">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://dev.to/turanyamishra">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@turanyamishra">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/ALWAYS_CODING-1E90FF?style=for-the-badge&labelColor=0D1B2A" />
+  <img src="https://img.shields.io/badge/COFFEE_POWERED-4682B4?style=for-the-badge&labelColor=0D1B2A" />
+  <img src="https://img.shields.io/badge/BUG_DESTROYER-104966?style=for-the-badge&labelColor=0D1B2A" />
   
 </div>
 
-## 🌈 GitHub Skyline
-
-<div align="center">
-  <a href="https://skyline.github.com/turanyamishra/2023">
-    <img src="https://via.placeholder.com/800x400/FF1493/FFFFFF?text=GitHub+Skyline+3D+Contribution+Chart" width="800" alt="GitHub Skyline">
-  </a>
-  <p>View my 3D contribution chart! ☝️ Click the image</p>
-</div>
-
-<div align="center">
-  
-  <!-- Ladybug Divider -->
-  🐞••••••••🐞••••••••🐞••••••••🐞••••••••🐞
-  
-  <h3>🌟 Thanks for visiting! Let's create something amazing together! 🌟</h3>
-  
-  ![Wave](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
+## 🔮 EASTER EGG ZONE
 
 <details>
-  <summary>🌼 Click for a secret garden...</summary>
+  <summary>🎯 Click to access the secret engineering vault...</summary>
   <div align="center">
-    <p>You've discovered my secret coding garden! Here's a special ASCII art just for you:</p>
+    <h3>🔥 Welcome to the Matrix, fellow engineer! 🔥</h3>
     <pre>
-           ,,.
-         ,;*;;;,
-        ,;*;;;;,
-       ,;;*;;;;;,
-      ,;;;*;;;;;;,
-     ,;;;;*;;;;;;;,
-    ,;;;;;*;;;;;;;;,
-   ,;;;;;;*;;;;;;;;;,
-  ,;;;;;;;*;;;;;;;;;;,
- ,;;;;;;;;*;;;;;;;;;;;,
- ^^^^^^^^^^^^^^^^^^^^^
+    ╔═══════════════════════════════════════════════════╗
+    ║  01010100 01001000 01000101 00100000 01001101     ║
+    ║  01000001 01010100 01010010 01001001 01011000     ║
+    ║  00100000 01001000 01000001 01010011 00100000     ║
+    ║  01000001 01010111 01000001 01001011 01000101     ║
+    ║  01001110 01000101 01000100 00100001 00100001     ║
+    ║                                                   ║
+    ║           🌟 THE MATRIX HAS AWAKENED! 🌟          ║
+    ║                                                   ║
+    ║    "There is no spoon... only clean code!" 🥄     ║
+    ╚═══════════════════════════════════════════════════╝
     </pre>
-    <p>Plant seeds of code, watch them grow!</p>
+    <p><strong>🎮 Achievement Unlocked:</strong> Matrix Decoder 🏆</p>
+    <p><em>You've proven yourself worthy of the engineering elite!</em></p>
   </div>
 </details>
 
-<!-- Custom Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Code%20With%20Love&fontSize=30&fontAlignY=80&animation=fadeIn&fontColor=FFFFFF" width="100%"/>
+---
+
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,27&height=120&section=footer&text=ENGINEERING%20EXCELLENCE&fontSize=24&fontAlignY=80&animation=fadeIn&fontColor=87CEEB)
+  
+  **🔥 ENGINEERED WITH PASSION • POWERED BY COFFEE • DEBUGGED WITH DETERMINATION 🔥**
+  
+  `while(alive) { eat(); sleep(); code(); repeat(); }`
+  
+</div>

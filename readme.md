@@ -239,7 +239,7 @@ graph LR
 <div align="center">
 
 <!-- Contribution Snake with different theme -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
 
 ```mermaid
 gitGraph

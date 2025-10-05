@@ -4,8 +4,7 @@
   
   ![Cyberpunk Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=2000&pause=800&color=1E90FF&background=0D1B2A&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=200&lines=⚡+FULL-STACK+ENGINEER+⚡;🤖+AI%2FML+ARCHITECT+🤖;🔥+HACKATHON+DESTROYER+🔥;💻+CODE+WIZARD+💻;🌟+NEURAL+NETWORK+ARCHITECT+🌟)
 
-  <!-- Enhanced Visitor Counter with Matrix Effect -->
-  <img src="https://profile-counter.glitch.me/turanya/count.svg" alt="Visitor Count" style="border: 2px solid #1E90FF; border-radius: 10px; padding: 5px; background: linear-gradient(45deg, #0D1B2A, #104966);" />
+
   
   <!-- Alternative Advanced Visitor Counters -->
   <br/>

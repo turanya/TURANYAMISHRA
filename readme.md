@@ -80,11 +80,6 @@
         <h3>⚡ Quantum Fun Fact</h3>
         <code style="color: #1E90FF;">I debug code faster than I debug my life 😄</code>
         <br/><br/>
-        <!-- Live Visitor Stats -->
-        <h3>👥 Neural Network Connections</h3>
-        <img src="https://profile-counter.glitch.me/turanya/count.svg" alt="Live Visitor Count" />
-        <br/>
-        <img src="https://img.shields.io/badge/🌍-GLOBAL_REACH-1E90FF?style=flat-square&labelColor=0D1B2A" alt="Global Reach" />
       </td>
     </tr> 
   </table>
